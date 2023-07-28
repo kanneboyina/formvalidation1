@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    padding: auto;
+}
+#id{
+    text-align: center;
+
+
+}
+#About{
+    width: 300px;
+    height: 150px;
+}
+.submit{
+    padding-left: 100px;
+}
+.container{
+    
+    border: 1px solid green;
+    background-color: blueviolet;
+    text-align: center;
+    
+
+    
+    
+}
+.ganesh{
+
+    border-radius: 12px;
+    padding: 12px;
+    margin-top: 12px;
+}
+
+.margin{
+ background-color:pink;
+ margin: 50px;
+ width: max-content;
+ margin-left: 550px;
+text-align: center;
+  
+}
